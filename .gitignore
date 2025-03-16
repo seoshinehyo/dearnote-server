@@ -38,3 +38,8 @@ out/
 .DS_Store
 
 .env
+
+### macOS ###
+.DS_Store
+.AppleDouble
+.LSOverride
